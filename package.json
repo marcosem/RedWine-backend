@@ -1,0 +1,13 @@
+{
+  "name": "redwine",
+  "version": "1.0.0",
+  "repository": "https://github.com/marcosem/RedWine-backend.git",
+  "productName": "Red Wine backend",
+  "description": "An application based in Grapevine, designed to manage live action vampire character sheets.",
+  "author": "Marcos Mathias <marcos-github@memathias.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
